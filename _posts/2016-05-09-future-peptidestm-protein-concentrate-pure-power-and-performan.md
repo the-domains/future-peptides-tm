@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Future Peptides™ Protein Concentrate. Pure Power & Performance. '
-datePublished: '2016-05-09T04:42:59.043Z'
-dateModified: '2016-05-09T04:42:43.337Z'
+datePublished: '2016-05-09T05:08:19.291Z'
+dateModified: '2016-05-09T05:08:03.443Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-future-peptidestm-protein-concentrate-pure-power-and-performan.md
@@ -24,10 +24,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/753a3931-3bcf-4483-9610-1bf921d19d45.jpg)
 
 **Future Peptides(tm) ****Protein Concentrate. Pure Power & Performance. **
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54445b8f-d591-46dd-b636-4d0ebc312751.jpg)
 ![“A lot of people ask what are you guys doing different? Why are you stronger, leaner and recovering better?”   “Future Peptides™ is the defining factor in our training program.”   –Charles Flanagan, IFBBPro Track & Field Coach, Fitness Athlete and Model   ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3809af72-e7d2-4cc5-b285-e5a499f8fa89.jpg)
-
-  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54445b8f-d591-46dd-b636-4d0ebc312751.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8c91bf-a5b9-4d71-899d-7f401cdf76a0.jpg)
 
 **Real Support To Live Your Dreams. **
