@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Future Peptides™]]></title>
+        <description><![CDATA[Future Peptides™]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 04:23:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Future Peptides™ Protein Concentrate. Pure Power & Performance. </p>]]></description>
+            <link>undefinedfuture-peptidestm-protein-concentrate-pure-power-and-performan/index.html</link>
+            <guid isPermaLink="false">a766e36c-c044-4735-bd8d-ec6ad3f0c4c7</guid>
+            <pubDate>Mon, 09 May 2016 04:22:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
