@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Future Peptides™]]></title>
         <description><![CDATA[Future Peptides™]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/future-peptides-tm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 04:23:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 04:43:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/future-peptides-tm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Future Peptides™ Protein Concentrate. Pure Power & Performance. </p>]]></description>
-            <link>undefinedfuture-peptidestm-protein-concentrate-pure-power-and-performan/index.html</link>
+            <link>https://thegrid.ai/future-peptides-tm/future-peptidestm-protein-concentrate-pure-power-and-performan/index.html</link>
             <guid isPermaLink="false">a766e36c-c044-4735-bd8d-ec6ad3f0c4c7</guid>
-            <pubDate>Mon, 09 May 2016 04:22:57 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 04:42:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
