@@ -1,28 +1,40 @@
-name: Future Peptides™
 favicon: null
-layout_spectrum: 0.9218335766345263
-typography_spectrum: 0.8136077316012233
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Future Peptides™
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1875
+  brandStrength: 0.4375
+  rhythmicContrast: 0.1092732225079089
   brandColors:
     - '#ffffff'
     - '#1c150e'
     - '#4ea2c5'
     - '#8b7b65'
     - '#bead92'
-  brandStrength: 0.4375
-  lightness: 0.44466279190964997
-  saturation: 0.1875
-  rhythmicContrast: 0.10927322250790894
-purpose: []
+  lightness: 0.44466279190965
+typography_spectrum: 0.8136077316012233
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2446809
+analytics:
+  twitter: null
+  google: null
+  facebook: null
