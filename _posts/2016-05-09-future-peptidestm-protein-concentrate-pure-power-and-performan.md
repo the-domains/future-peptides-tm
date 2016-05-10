@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Future Peptides™ Protein Concentrate. Pure Power & Performance. '
-datePublished: '2016-05-10T17:01:43.957Z'
-dateModified: '2016-05-10T17:01:31.589Z'
+datePublished: '2016-05-10T17:24:41.400Z'
+dateModified: '2016-05-10T17:23:18.795Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-future-peptidestm-protein-concentrate-pure-power-and-performan.md
@@ -47,14 +47,13 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84bfcaf-98fc-473e-9c7a-a6392e181eef.jpg)
 
 * **Feel And See The Difference In A Very Short TimeFrame.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7148573-4550-4da7-a3ed-069463c020c9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4a3568-b8ae-451c-909c-698db941ef8e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84fb7967-8e13-421a-a8c2-737ac136c10f.jpg)
 
 ****
 
 **Future Peptides(tm) nitrogen balancing effect on the body brings an _anabolic_, or _rebuilding _state. With this, a regenerative effect on the brain. Then systems can clear toxins and waste, and repair themselves.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18a5991a-1d1f-43c5-9fc3-00e2aa7ddbae.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a3aeac9-1f31-42c9-9d91-c1f219e167ff.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61480531-6ab8-46df-bb7c-a04c8902b7ab.jpg)
 
 ****
@@ -63,6 +62,8 @@ _type: Article
 
 **Imagine more strength, better recovery, and energy for _your_ activities!**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a16b6a3-2a16-45d6-9c0a-67ace8b451cb.jpg)
+
+**SUPER CONVENIENT protein in a _CAPSULE!_ Five a day yield****tons of results. Thirty day supply per bottle of 150 capsules.** Take on the field, in the gym, camping, biking, boating, climbing, hiking....wherever you go, with water.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3b24040-001d-4162-af53-fcc714d475a7.jpg)
 
 **Most people report benefits the first week with Future Peptides.(tm)**
