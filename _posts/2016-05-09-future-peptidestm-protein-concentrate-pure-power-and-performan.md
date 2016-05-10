@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Future Peptides™ Protein Concentrate. Pure Power & Performance. '
-datePublished: '2016-05-10T17:24:41.400Z'
-dateModified: '2016-05-10T17:23:18.795Z'
+datePublished: '2016-05-10T17:39:49.600Z'
+dateModified: '2016-05-10T17:39:14.036Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-future-peptidestm-protein-concentrate-pure-power-and-performan.md
@@ -63,7 +63,7 @@ _type: Article
 **Imagine more strength, better recovery, and energy for _your_ activities!**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a16b6a3-2a16-45d6-9c0a-67ace8b451cb.jpg)
 
-**SUPER CONVENIENT protein in a _CAPSULE!_ Five a day yield****tons of results. Thirty day supply per bottle of 150 capsules.** Take on the field, in the gym, camping, biking, boating, climbing, hiking....wherever you go, with water.
+**SUPER CONVENIENT protein in a _CAPSULE!_ Just 5 a day yield remarkable****results. **_**Thirty day supply per bottle of 150 capsules.**___Take on the field or in the gym...at work or shopping; traveling, camping, biking, boating, climbing, hiking....wherever you go, easily!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3b24040-001d-4162-af53-fcc714d475a7.jpg)
 
 **Most people report benefits the first week with Future Peptides.(tm)**
