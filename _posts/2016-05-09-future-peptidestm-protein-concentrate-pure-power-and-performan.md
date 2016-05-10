@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Future Peptides™ Protein Concentrate. Pure Power & Performance. '
-datePublished: '2016-05-10T21:19:04.624Z'
-dateModified: '2016-05-10T21:18:53.323Z'
+datePublished: '2016-05-10T21:43:47.772Z'
+dateModified: '2016-05-10T21:41:41.046Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-future-peptidestm-protein-concentrate-pure-power-and-performan.md
@@ -44,11 +44,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6eddc4a-35da-4964-867d-77084d338c47.jpg)
 
 **Concentrated, Pure** Plasma Protein. Ultra Useable. **Doctor Developed** For Critical Care Nutrition Needs. **Tested **at Ohio State University's Peptide & Protein Lab and Germany's WADA Lab. **Listed** on Europe's _Cologne List_ of safe, **tested-stimulant-free** supplements for Athletes.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f856198d670e9c4f7e73cce0776ca8a48db81445.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84bfcaf-98fc-473e-9c7a-a6392e181eef.jpg)
 
-* **Feel And See The Difference In A Very Short TimeFrame.**
+* Feel And See The Difference In A Very Short TimeFrame.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4a3568-b8ae-451c-909c-698db941ef8e.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f856198d670e9c4f7e73cce0776ca8a48db81445.jpg)
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cc75b24-6cb2-48e3-b9b8-1343ecb5eaf1.jpg)
