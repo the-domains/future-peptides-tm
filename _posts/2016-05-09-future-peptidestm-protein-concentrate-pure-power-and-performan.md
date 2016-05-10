@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Future Peptides™ Protein Concentrate. Pure Power & Performance. '
-datePublished: '2016-05-10T18:38:14.293Z'
-dateModified: '2016-05-10T18:38:01.969Z'
+datePublished: '2016-05-10T19:37:41.112Z'
+dateModified: '2016-05-10T19:37:37.921Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-future-peptidestm-protein-concentrate-pure-power-and-performan.md
@@ -47,8 +47,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84bfcaf-98fc-473e-9c7a-a6392e181eef.jpg)
 
 * **Feel And See The Difference In A Very Short TimeFrame.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4a3568-b8ae-451c-909c-698db941ef8e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84fb7967-8e13-421a-a8c2-737ac136c10f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4a3568-b8ae-451c-909c-698db941ef8e.jpg)
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cc75b24-6cb2-48e3-b9b8-1343ecb5eaf1.jpg)
@@ -61,6 +61,10 @@ _type: Article
 ****
 
 **Imagine more strength, better recovery, and energy for _your_ activities!**
+
+******  
+******
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49833a33-9afe-4e8e-94cf-489eaf09e4c1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61480531-6ab8-46df-bb7c-a04c8902b7ab.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55b841a1-8369-4eb0-8138-130370c7e2ca.jpg)
 
@@ -68,7 +72,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3b24040-001d-4162-af53-fcc714d475a7.jpg)
 
 **Most people report benefits the first week with Future Peptides.(tm)**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49833a33-9afe-4e8e-94cf-489eaf09e4c1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b2770e0-4352-418c-a5c2-ad5483788ce7.jpg)
 
 **Protein works in nearly every cell. The more you are able to absorb, the better your body systems will function, when the amino acid profile is optimal and natural. That's why Future Peptides(tm) yields such far reaching benefits. **
@@ -89,5 +92,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b6bf38-c0fb-4f91-884e-7aa6085d2bd6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73ea65ba-0fee-4871-83b2-4d1820b78271.png)
 
-## **Create the Future of ****YOUR **Dreams with the help of premium**Future Peptides(tm)Protein.**
+## **Create the future you dream of,****with the premium Future Peptides(tm) Protein Concentrate.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/693b80c0-b3fb-419e-ac99-6ecae3b0b321.jpg)
