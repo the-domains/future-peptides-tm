@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Future Peptides™ Protein Concentrate. Pure Power & Performance. '
-datePublished: '2016-05-10T22:36:15.203Z'
-dateModified: '2016-05-10T22:35:49.545Z'
+datePublished: '2016-05-11T01:09:04.360Z'
+dateModified: '2016-05-11T01:02:55.988Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-future-peptidestm-protein-concentrate-pure-power-and-performan.md
@@ -45,6 +45,7 @@ _type: Article
 
 **Concentrated, Pure** Plasma Protein. Ultra Useable. **Doctor Developed** For Critical Care Nutrition Needs. **Tested **at Ohio State University's Peptide & Protein Lab and Germany's WADA Lab. **Listed** on Europe's _Cologne List_ of safe, **tested-stimulant-free** supplements for Athletes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84bfcaf-98fc-473e-9c7a-a6392e181eef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fa4e73b-06cb-4775-8529-4daa5a421e65.jpg)
 
 * Feel And See The Difference In A Very Short TimeFrame.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4a3568-b8ae-451c-909c-698db941ef8e.jpg)
@@ -70,7 +71,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3b24040-001d-4162-af53-fcc714d475a7.jpg)
 
 **Most people report benefits the first week with Future Peptides.(tm)**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fa4e73b-06cb-4775-8529-4daa5a421e65.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/225ac750-6e62-4209-a6df-b5f9024c0ae5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b2770e0-4352-418c-a5c2-ad5483788ce7.jpg)
 
@@ -86,9 +86,9 @@ _type: Article
 
 **Future Peptides(tm) is a protein that makes recovery _much _easier. ****Build your best future self today, and every day, with Future Peptides.(tm)******
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fad33db-0b73-4899-ae24-66fc76614bc0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b6bf38-c0fb-4f91-884e-7aa6085d2bd6.jpg)
 
 ## Enjoy your Future.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b6bf38-c0fb-4f91-884e-7aa6085d2bd6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73ea65ba-0fee-4871-83b2-4d1820b78271.png)
 
 ## **Create the future you dream of,****with the premium Future Peptides(tm) Protein Concentrate.**
