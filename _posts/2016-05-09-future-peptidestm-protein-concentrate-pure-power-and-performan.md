@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Future Peptides™ Protein Concentrate. Pure Power & Performance. '
-datePublished: '2016-05-11T01:09:04.360Z'
-dateModified: '2016-05-11T01:02:55.988Z'
+datePublished: '2016-05-11T01:30:38.855Z'
+dateModified: '2016-05-11T01:30:09.741Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-future-peptidestm-protein-concentrate-pure-power-and-performan.md
@@ -45,13 +45,13 @@ _type: Article
 
 **Concentrated, Pure** Plasma Protein. Ultra Useable. **Doctor Developed** For Critical Care Nutrition Needs. **Tested **at Ohio State University's Peptide & Protein Lab and Germany's WADA Lab. **Listed** on Europe's _Cologne List_ of safe, **tested-stimulant-free** supplements for Athletes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84bfcaf-98fc-473e-9c7a-a6392e181eef.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fa4e73b-06cb-4775-8529-4daa5a421e65.jpg)
 
 * Feel And See The Difference In A Very Short TimeFrame.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cc75b24-6cb2-48e3-b9b8-1343ecb5eaf1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4a3568-b8ae-451c-909c-698db941ef8e.jpg)
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cc75b24-6cb2-48e3-b9b8-1343ecb5eaf1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fa4e73b-06cb-4775-8529-4daa5a421e65.jpg)
 
 **Future Peptides(tm) nitrogen balancing effect on the body brings an _anabolic_, or _rebuilding _state. With this, a regenerative effect on the brain. Then systems can clear toxins and waste, and repair themselves.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18a5991a-1d1f-43c5-9fc3-00e2aa7ddbae.jpg)
