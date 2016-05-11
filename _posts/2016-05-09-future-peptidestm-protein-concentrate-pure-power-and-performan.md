@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Future Peptides™ Protein Concentrate. Pure Power & Performance. '
-datePublished: '2016-05-11T01:30:38.855Z'
-dateModified: '2016-05-11T01:30:09.741Z'
+datePublished: '2016-05-11T01:48:28.706Z'
+dateModified: '2016-05-11T01:47:22.439Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-future-peptidestm-protein-concentrate-pure-power-and-performan.md
@@ -47,7 +47,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f84bfcaf-98fc-473e-9c7a-a6392e181eef.jpg)
 
 * Feel And See The Difference In A Very Short TimeFrame.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cc75b24-6cb2-48e3-b9b8-1343ecb5eaf1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4a3568-b8ae-451c-909c-698db941ef8e.jpg)
 
 ****
@@ -55,6 +54,7 @@ _type: Article
 
 **Future Peptides(tm) nitrogen balancing effect on the body brings an _anabolic_, or _rebuilding _state. With this, a regenerative effect on the brain. Then systems can clear toxins and waste, and repair themselves.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18a5991a-1d1f-43c5-9fc3-00e2aa7ddbae.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cc75b24-6cb2-48e3-b9b8-1343ecb5eaf1.jpg)
 
 ****
 
@@ -84,12 +84,12 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a65ab9c1-33bc-4c30-ac51-85f85d1dae5f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20b28060-0a2a-4f88-a0a6-d661208fe208.jpg)
 
-**Future Peptides(tm) is a protein that makes recovery _much _easier. ****Build your best future self today, and every day, with Future Peptides.(tm)******
+**Future Peptides(tm) is a protein that makes recovery _much _easier. ****Build your best future self today, **_**and every day.**_****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fad33db-0b73-4899-ae24-66fc76614bc0.jpg)
 
 ## Enjoy your Future.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b6bf38-c0fb-4f91-884e-7aa6085d2bd6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73ea65ba-0fee-4871-83b2-4d1820b78271.png)
 
-## **Create the future you dream of,****with the premium Future Peptides(tm) Protein Concentrate.**
+## **Create the future you dream of,****with premium Future Peptides(tm) Protein Concentrate.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/693b80c0-b3fb-419e-ac99-6ecae3b0b321.jpg)
